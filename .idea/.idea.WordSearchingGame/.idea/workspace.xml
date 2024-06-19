@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e5557c6c-bde9-41f6-8c19-28017a7b7af1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/EditorScripts/AlphabetDataDrawer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/EditorScripts/AlphabetDataDrawer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/EditorScripts/BoardDataDrawer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GridSquare.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/GridSquare.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/GameScreen/Back.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/GameScreen/Back.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/GameScreen/CategoryUnlocked.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/GameScreen/CategoryUnlocked.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/GameScreen/CrossLine.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/GameScreen/CrossLine.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/GameScreen/ExitButton.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/GameScreen/ExitButton.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/GameScreen/GameOver.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/GameScreen/GameOver.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/GameScreen/MrSquare.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/GameScreen/MrSquare.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/GameScreen/MrSquareHappy.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/GameScreen/MrSquareHappy.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/GameScreen/NextLevel.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/GameScreen/NextLevel.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/GameScreen/Popip.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/GameScreen/Popip.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/GameScreen/StarEmpty.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/GameScreen/StarEmpty.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/GameScreen/StarFull.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/GameScreen/StarFull.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/GameScreen/TextField.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/GameScreen/TextField.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/GameScreen/TextField_2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/GameScreen/TextField_2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/GameScreen/TimerBackground.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/GameScreen/TimerBackground.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/GameScreen/WatchAdsToContinueButton.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/GameScreen/WatchAdsToContinueButton.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/GameScreen/WellDone1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/GameScreen/WellDone1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/GameScreen/slice1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/GameScreen/slice1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/A.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/A.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/B.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/B.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/C.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/C.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/D.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/D.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/E.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/E.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/F.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/F.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/G.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/G.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/H.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/H.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/I.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/I.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/J.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/J.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/K.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/K.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/L.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/L.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/M.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/M.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/N.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/N.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/O.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/O.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/P.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/P.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/Q.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/Q.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/R.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/R.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/S.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/S.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/T.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/T.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/U.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/U.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/V.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/V.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/W.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/W.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/X.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/X.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/Y.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/Y.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/Z.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Highlighted/Z.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/A.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/A.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/B.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/B.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/C.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/C.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/D.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/D.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/E.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/E.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/F.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/F.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/G.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/G.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/H.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/H.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/I.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/I.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/J.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/J.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/K.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/K.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/L.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/L.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/M.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/M.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/N.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/N.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/O.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/O.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/P.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/P.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/Q.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/Q.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/R.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/R.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/S.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/S.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/T.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/T.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/U.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/U.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/V.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/V.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/W.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/W.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/X.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/X.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/Y.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/Y.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/Z.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Normal/Z.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/A.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/A.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/B.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/B.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/C.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/C.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/D.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/D.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/E.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/E.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/F.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/F.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/G.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/G.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/H.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/H.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/I.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/I.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/J.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/J.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/K.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/K.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/L.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/L.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/M.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/M.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/N.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/N.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/O.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/O.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/P.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/P.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/Q.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/Q.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/R.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/R.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/S.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/S.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/T.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/T.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/U.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/U.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/V.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/V.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/W.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/W.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/X.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/X.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/Y.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/Y.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/Z.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Plain/Z.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/A.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/A.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/B.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/B.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/C.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/C.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/D.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/D.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/E.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/E.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/F.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/F.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/G.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/G.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/H.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/H.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/I.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/I.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/J.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/J.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/K.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/K.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/L.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/L.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/M.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/M.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/N.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/N.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/O.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/O.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/P.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/P.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/Q.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/Q.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/R.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/R.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/S.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/S.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/T.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/T.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/U.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/U.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/V.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/V.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/W.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/W.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/X.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/X.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/Y.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/Y.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/Z.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Graphics/Letters/Wrong/Z.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Data/Puzzles/New Board Data.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Data/Puzzles/New Board Data.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Data/Puzzles/Puzzle1.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Data/Puzzles/Puzzle1.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Editor.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/EditorScripts.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Editor/BoardDataDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Editor/BoardDataDrawer.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/EditorScripts/BoardDataDrawer.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/BoardData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/BoardData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/GameData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WordsGrid.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WordChecker.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/BoardData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Editor/BoardDataDrawer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/AlphabetData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Editor/AlphabetDataDrawer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EditorScripts/BoardDataDrawer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EditorScripts/AlphabetDataDrawer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/GameData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GridSquare.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WordChecker.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WordsGrid.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2hfqCFGrpgZXoHuzT7LhotRn5QT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5557c6c-bde9-41f6-8c19-28017a7b7af1" name="Default Changelist" comment="" />
+      <created>1717995354108</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717995354108</updated>
+      <workItem from="1717995385469" duration="3971000" />
+      <workItem from="1718117005659" duration="7596000" />
+      <workItem from="1718174843525" duration="8832000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="991" y="191" key="RiderGenerateDialog" timestamp="1717996054586">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="991" y="191" key="RiderGenerateDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1717996054586" />
+    <state x="943" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1718186786026">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="943" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1707.1019@0.0.1707.1019" timestamp="1718186786026" />
+  </component>
+</project>

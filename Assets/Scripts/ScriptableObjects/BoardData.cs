@@ -1,4 +1,4 @@
-using System;
+using System.Collections.Generic;
 using UnityEngine;
 
 namespace ScriptableObjects
@@ -32,7 +32,7 @@ namespace ScriptableObjects
                 row = new string[size];
                 ClearRow();
             }
-
+            
             public void ClearRow()
             {
                 for (int i = 0; i < size; i++)
@@ -47,10 +47,17 @@ namespace ScriptableObjects
         public int rows;
 
         public BoardRow[] board;
+        public List<SearchingWord> searchingWords = new List<SearchingWord>();
 
         public void ClearWithEmptyString()
         {
-            for (int i = 0; i < columns; i++)
+            if (board == null || board.Length != columns)
+            {
+                Debug.LogError("Board is not initialized properly. Board length: " + (board?.Length.ToString() ?? "null") + ", Columns: " + columns);
+                return;
+            }
+
+            for (int i = 0; i < board.Length; i++)
             {
                 board[i].ClearRow();
             }

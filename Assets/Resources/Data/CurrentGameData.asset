@@ -9,10 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 39901bb67eb97a040bc93539db905847, type: 3}
-  m_Name: New Board Data
+  m_Script: {fileID: 11500000, guid: 5c471eeb887cbe64ea85fa3f1589e69a, type: 3}
+  m_Name: CurrentGameData
   m_EditorClassIdentifier: 
-  timeInSeconds: 0
-  columns: 1
-  rows: 1
-  board: []
+  selectedCategoryName: 
+  selectedBoardData: {fileID: 11400000, guid: 03ecb0e07b3c10043a0e4532c93882fd, type: 2}
